@@ -1,0 +1,5 @@
+<map id="UTN.Winform.Examen1.Sismos.UI.frmPrincipal.CargarArchivoJSON" name="UTN.Winform.Examen1.Sismos.UI.frmPrincipal.CargarArchivoJSON">
+<area shape="rect" id="node2" href="$interface_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_interfaces_1_1_i_gestor.html#ab385263f76037e104e1d0f0648464689" title="UTN.Winform.Examen1.Sismos.\lInterfaces.IGestor.AgregarSismo" alt="" coords="295,5,506,47"/>
+<area shape="rect" id="node3" href="$class_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_factory_1_1_factory_sismo.html#abcb5e5bd16ec1b7db303894dc1a0e782" title="UTN.Winform.Examen1.Sismos.\lFactory.FactorySismo.CrearSismo" alt="" coords="289,71,512,112"/>
+<area shape="rect" id="node4" href="$class_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_util_1_1_j_s_o_n_generic_object.html#a01f13a272cdeb065b6a130dbc6119414" title="UTN.Winform.Examen1.Sismos.\lUtil.JSONGenericObject.JSonToObject" alt="" coords="277,136,524,177"/>
+</map>

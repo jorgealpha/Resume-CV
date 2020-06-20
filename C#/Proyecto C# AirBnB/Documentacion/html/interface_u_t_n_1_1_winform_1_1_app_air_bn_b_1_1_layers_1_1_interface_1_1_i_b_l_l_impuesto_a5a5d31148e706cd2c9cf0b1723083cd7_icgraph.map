@@ -1,0 +1,5 @@
+<map id="UTN.Winform.AppAirBnB.Layers.Interface.IBLLImpuesto.GetImpuesto" name="UTN.Winform.AppAirBnB.Layers.Interface.IBLLImpuesto.GetImpuesto">
+<area shape="rect" id="node2" href="$class_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_u_i_1_1_procesos_1_1frm_facturacion.html#aa292c501b6d5b7e717dff9d04dfabbeb" title="UTN.Winform.AppAirBnB.Layers.\lUI.Procesos.frmFacturacion.btnAgregar_Click" alt="" coords="285,5,572,47"/>
+<area shape="rect" id="node3" href="$class_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_d_a_l_1_1_d_a_l_enc_factura.html#aeac22a9dc0acd040ff9d33c8a87addf4" title="UTN.Winform.AppAirBnB.Layers.\lDAL.DALEncFactura.GetFactura" alt="" coords="321,71,536,112"/>
+<area shape="rect" id="node4" href="$class_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_u_i_1_1_procesos_1_1frm_facturacion.html#ae346e62d626c1504cb8f2a4e66a77480" title="UTN.Winform.AppAirBnB.Layers.\lUI.Procesos.frmFacturacion.toolStrip\lBtnFacturar_Click" alt="" coords="311,137,546,193"/>
+</map>

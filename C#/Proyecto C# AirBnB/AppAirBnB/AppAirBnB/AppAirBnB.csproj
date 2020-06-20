@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BAE0BF09-E535-4C84-B6A7-1E2E11749FFF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UTN.Winform.AppAirBnB</RootNamespace>
+    <AssemblyName>AppAirBnB</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MessagingToolkit.QRCode, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MessagingToolkit.QRCode.1.3.0\lib\MessagingToolkit.QRCode.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="QRCoder, Version=1.3.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.3.2\lib\net40\QRCoder.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.3.2\lib\net40\UnityEngine.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enumeraciones\Enumeraciones.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\BLL\BLLDetFactura.cs" />
+    <Compile Include="Layers\BLL\BLLEncFactura.cs" />
+    <Compile Include="Layers\BLL\BLLHabitacion.cs" />
+    <Compile Include="Layers\BLL\BLLHuesped.cs" />
+    <Compile Include="Layers\BLL\BLLImpuesto.cs" />
+    <Compile Include="Layers\BLL\BLLLogin.cs" />
+    <Compile Include="Layers\BLL\BLLPais.cs" />
+    <Compile Include="Layers\BLL\BLLReservacion.cs" />
+    <Compile Include="Layers\BLL\BLLSeguridad.cs" />
+    <Compile Include="Layers\BLL\BLLTarjeta.cs" />
+    <Compile Include="Layers\BLL\BLLSysUserRolDTO.cs" />
+    <Compile Include="Layers\DAL\DALDetFactura.cs" />
+    <Compile Include="Layers\DAL\DALEncFactura.cs" />
+    <Compile Include="Layers\DAL\DALHabitacion.cs" />
+    <Compile Include="Layers\DAL\DALHuesped.cs" />
+    <Compile Include="Layers\DAL\DALImpuesto.cs" />
+    <Compile Include="Layers\DAL\DALLogin.cs" />
+    <Compile Include="Layers\DAL\DALPais.cs" />
+    <Compile Include="Layers\DAL\DALReservacion.cs" />
+    <Compile Include="Layers\DAL\DALSeguridad.cs" />
+    <Compile Include="Layers\DAL\DALTarjeta.cs" />
+    <Compile Include="Layers\DAL\DALSysUserRolDTO.cs" />
+    <Compile Include="Layers\Entities\DetFactura.cs" />
+    <Compile Include="Layers\Entities\DTO\HabitacionDTO.cs" />
+    <Compile Include="Layers\Entities\DTO\HuespedPaisDTO.cs" />
+    <Compile Include="Layers\Entities\DTO\SysUserRolDTO.cs" />
+    <Compile Include="Layers\Entities\EncFactura.cs" />
+    <Compile Include="Layers\Entities\Habitacion.cs" />
+    <Compile Include="Layers\Entities\Huesped.cs" />
+    <Compile Include="Layers\Entities\Impuesto.cs" />
+    <Compile Include="Layers\Entities\Pais.cs" />
+    <Compile Include="Layers\Entities\Reservacion.cs" />
+    <Compile Include="Layers\Entities\Rol.cs" />
+    <Compile Include="Layers\Entities\SysUser.cs" />
+    <Compile Include="Layers\Entities\Tarjeta.cs" />
+    <Compile Include="Layers\Entities\Usuario.cs" />
+    <Compile Include="Layers\Interface\IBLLDetFactura.cs" />
+    <Compile Include="Layers\Interface\IBLLEncFactura.cs" />
+    <Compile Include="Layers\Interface\IBLLHabitacion.cs" />
+    <Compile Include="Layers\Interface\IBLLHuesped.cs" />
+    <Compile Include="Layers\Interface\IBLLImpuesto.cs" />
+    <Compile Include="Layers\Interface\IBLLLogin.cs" />
+    <Compile Include="Layers\Interface\IBLLPais.cs" />
+    <Compile Include="Layers\Interface\IBLLReservacion.cs" />
+    <Compile Include="Layers\Interface\IBLLSeguridad.cs" />
+    <Compile Include="Layers\Interface\IBLLTarjeta.cs" />
+    <Compile Include="Layers\Interface\IBLLSysUserRolDTO.cs" />
+    <Compile Include="Layers\Interface\IDALDetFactura.cs" />
+    <Compile Include="Layers\Interface\IDALEncFactura.cs" />
+    <Compile Include="Layers\Interface\IDALHabitacion.cs" />
+    <Compile Include="Layers\Interface\IDALHuesped.cs" />
+    <Compile Include="Layers\Interface\IDALImpuesto.cs" />
+    <Compile Include="Layers\Interface\IDALLogin.cs" />
+    <Compile Include="Layers\Interface\IDALPais.cs" />
+    <Compile Include="Layers\Interface\IDALReservacion.cs" />
+    <Compile Include="Layers\Interface\IDALSeguridad.cs" />
+    <Compile Include="Layers\Interface\IDALTarjeta.cs" />
+    <Compile Include="Layers\Interface\IDALSysUserRolDTO.cs" />
+    <Compile Include="Layers\Persistencia\DataBase.cs" />
+    <Compile Include="Layers\Persistencia\FactoryConexion.cs" />
+    <Compile Include="Layers\Persistencia\FactoryDataBase.cs" />
+    <Compile Include="Layers\Persistencia\IDataBase.cs" />
+    <Compile Include="Layers\UI\Filtros\frmFiltroHabi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Filtros\frmFiltroHabi.Designer.cs">
+      <DependentUpon>frmFiltroHabi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Filtros\frmFiltroHuesped.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Filtros\frmFiltroHuesped.Designer.cs">
+      <DependentUpon>frmFiltroHuesped.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Filtros\frmFiltroReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Filtros\frmFiltroReserva.Designer.cs">
+      <DependentUpon>frmFiltroReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\frmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\frmAcercaDe.Designer.cs">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Mantenimientos\frmMantenimientoHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Mantenimientos\frmMantenimientoHabitacion.Designer.cs">
+      <DependentUpon>frmMantenimientoHabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Mantenimientos\frmMantenimientoHuesped.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Mantenimientos\frmMantenimientoHuesped.Designer.cs">
+      <DependentUpon>frmMantenimientoHuesped.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Procesos\frmFacturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Procesos\frmFacturacion.Designer.cs">
+      <DependentUpon>frmFacturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Procesos\frmReservacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Procesos\frmReservacion.Designer.cs">
+      <DependentUpon>frmReservacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\DataSet2.cs">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmFacturaImpresion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmFacturaImpresion.Designer.cs">
+      <DependentUpon>frmFacturaImpresion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmReporteHabitaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmReporteHabitaciones.Designer.cs">
+      <DependentUpon>frmReporteHabitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmReporteRecaudacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmReporteRecaudacion.Designer.cs">
+      <DependentUpon>frmReporteRecaudacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Seguridad\frmSeguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Seguridad\frmSeguridad.Designer.cs">
+      <DependentUpon>frmSeguridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\QuickResponse.cs" />
+    <Compile Include="Util\Utilitarios.cs" />
+    <EmbeddedResource Include="Layers\UI\Filtros\frmFiltroHabi.resx">
+      <DependentUpon>frmFiltroHabi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Filtros\frmFiltroHuesped.resx">
+      <DependentUpon>frmFiltroHuesped.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Filtros\frmFiltroReserva.resx">
+      <DependentUpon>frmFiltroReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\frmAcercaDe.resx">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Mantenimientos\frmMantenimientoHabitacion.resx">
+      <DependentUpon>frmMantenimientoHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Mantenimientos\frmMantenimientoHuesped.resx">
+      <DependentUpon>frmMantenimientoHuesped.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Procesos\frmFacturacion.resx">
+      <DependentUpon>frmFacturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Procesos\frmReservacion.resx">
+      <DependentUpon>frmReservacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Reportes\frmFacturaImpresion.resx">
+      <DependentUpon>frmFacturaImpresion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Reportes\frmReporteHabitaciones.resx">
+      <DependentUpon>frmReporteHabitaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Reportes\frmReporteRecaudacion.resx">
+      <DependentUpon>frmReporteRecaudacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Reportes\Report2.rdlc" />
+    <EmbeddedResource Include="Layers\UI\Reportes\ReporteHabitacion.rdlc" />
+    <EmbeddedResource Include="Layers\UI\Reportes\ReporteRecauda.rdlc" />
+    <EmbeddedResource Include="Layers\UI\Seguridad\frmSeguridad.resx">
+      <DependentUpon>frmSeguridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Layers\UI\Reportes\DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Layers\UI\Reportes\DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Layers\UI\Reportes\DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Documents\" />
+    <Folder Include="Factories\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-1b8a5ba29706cdc7c62e9b812886f19b-addressbook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-53df9782d9bacf85cae56004eace1272-puzzle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-61c87da13517972f054915c9e7419d9f-unlike.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-0428d53e7b6e545e0591f019a0392fd1-news.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-705abf03799f54ac0ee54fc08729044b-phone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-1149d4b4e6ca5d6735ced974424f1f3a-phone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-3011a484e031c9c016db2bcf62feda50-clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-8144eb3f858e81ffdf6a058c1bdfe13b-calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-0719183b33494606b3a3d9449c6bd686-calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-50025313cc1c6440651dfb884983fa83-megaphone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-a7b4e7eafa76d027d523140496f14f6d-scanner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-a5730ab4ecf3e9f080c982e6ca5a2002-book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-d412235b792cccfd81e6038865109033-printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-de0013d277ed47ae28dc3a4ddcf20ec2-cup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32-32-deba5ff0bff5a67725857f1f382c19da-like.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\38BBC96B6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-2be631e7356ce10da373b8efd54fd80f-users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-5fcb865b3ad895719c10c7bfe5771fa4-pen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-6d18f14292ffd3debaca5d368aec541f-building.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-7db7675b221877d6daa87d9361ba3d58-briefcase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-8e6263cad82d695d5236c098e1d36714-industry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-25a6ad904f9df2822b07fe397f21c6fc-chart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-062b562d65e87001955143c9ecc082d5-user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-89f8cc78e9d91a7a1c0d52b61d5c4f91-mobile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-549b73ca452c6fd477a938346bb8d9d3-chart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-2105a9c63eeaa7a280f82fb9c0ce8123-bulb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-10696bc060189f66efd1c9d2397cac66-bullseye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-b0c2ec075d62ad91d845ac99590a3e1d-presentation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48-48-f217a070ae265c06a3473771c368ac82-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\256-256-82afcf99a703ccee975073f5bb0bc1b7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\256-256-f4ec0361e8de14dd938e2f5da2780d32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\airbnb-logo-ventana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vista-wood-node-wallpapers_3527_1600x1200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SbeKd2H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\airbnb-logo-white-image-green-background-93709650.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin-título-115.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,5 @@
+<map id="UTN.Winform.AppAirBnB.Layers.BLL.BLLSysUserRolDTO.SaveSysUser" name="UTN.Winform.AppAirBnB.Layers.BLL.BLLSysUserRolDTO.SaveSysUser">
+<area shape="rect" id="node2" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_d_a_l_sys_user_rol_d_t_o.html#a9ca1dd6a2d3bc5f99762ef04a948a6ee" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IDALSysUserRolDTO.GetSys\lUserById" alt="" coords="303,5,549,61"/>
+<area shape="rect" id="node3" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_d_a_l_sys_user_rol_d_t_o.html#ad4e5f21e6b4f42b26f1106195104ac2f" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IDALSysUserRolDTO.Save\lSysUser" alt="" coords="311,85,541,141"/>
+<area shape="rect" id="node4" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_d_a_l_sys_user_rol_d_t_o.html#a0ba926134bec970ff3f00c9822026977" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IDALSysUserRolDTO.Update\lSysUser" alt="" coords="305,165,547,221"/>
+</map>

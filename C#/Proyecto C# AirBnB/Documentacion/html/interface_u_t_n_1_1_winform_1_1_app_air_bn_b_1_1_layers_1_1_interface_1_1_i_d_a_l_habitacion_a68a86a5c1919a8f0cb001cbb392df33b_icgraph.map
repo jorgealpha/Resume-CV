@@ -1,0 +1,6 @@
+<map id="UTN.Winform.AppAirBnB.Layers.Interface.IDALHabitacion.GetHabitacionById" name="UTN.Winform.AppAirBnB.Layers.Interface.IDALHabitacion.GetHabitacionById">
+<area shape="rect" id="node2" href="$class_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_d_a_l_1_1_d_a_l_reservacion.html#a4f1701ba1da574e1ef25cd7cdad28a64" title="UTN.Winform.AppAirBnB.Layers.\lDAL.DALReservacion.GetAllReservacion" alt="" coords="329,5,585,47"/>
+<area shape="rect" id="node3" href="$class_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_b_l_l_1_1_b_l_l_habitacion.html#a7189be143a6bf4c1fe2c5ef7de47c8a9" title="UTN.Winform.AppAirBnB.Layers.\lBLL.BLLHabitacion.GetHabitacionById" alt="" coords="335,71,580,112"/>
+<area shape="rect" id="node4" href="$class_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_d_a_l_1_1_d_a_l_reservacion.html#a46c37e2000fae0ee55f9bd0c278df2ef" title="UTN.Winform.AppAirBnB.Layers.\lDAL.DALReservacion.GetReserva" alt="" coords="349,136,566,177"/>
+<area shape="rect" id="node5" href="$class_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_b_l_l_1_1_b_l_l_habitacion.html#aa002fbe24ef443c7647d5bfa6d5900e7" title="UTN.Winform.AppAirBnB.Layers.\lBLL.BLLHabitacion.SaveHabitacion" alt="" coords="344,201,571,243"/>
+</map>

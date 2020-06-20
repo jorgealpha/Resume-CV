@@ -1,0 +1,4 @@
+<map id="UTN.Winform.AppAirBnB.Layers.DAL.DALReservacion" name="UTN.Winform.AppAirBnB.Layers.DAL.DALReservacion">
+<area shape="rect" id="node2" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_d_a_l_reservacion.html" title="{IDALReservacion\n||+ GetNextNumeroReserva()\l+ GetCurrentNumeroReserva()\l+ SaveReserva()\l+ GetAllReservacion()\l+ GetReserva()\l+ DeleteReserva()\l}" alt="" coords="5,5,201,156"/>
+<area shape="rect" id="node3" href="$class_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_entities_1_1_usuario.html" title="{UTN.Winform.AppAirBnB.Layers.\lEntities.Usuario\n|+ Login\l+ Password\l|}" alt="" coords="225,27,440,134"/>
+</map>

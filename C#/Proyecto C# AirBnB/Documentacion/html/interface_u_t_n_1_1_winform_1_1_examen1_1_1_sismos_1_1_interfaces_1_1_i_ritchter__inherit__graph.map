@@ -1,0 +1,6 @@
+<map id="UTN.Winform.Examen1.Sismos.Interfaces.IRitchter" name="UTN.Winform.Examen1.Sismos.Interfaces.IRitchter">
+<area shape="rect" id="node2" href="$class_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_clases_1_1_sismo.html" title="{UTN.Winform.Examen1.Sismos.\lClases.Sismo\n|+ AmplitudHonda\l+ FechaInicial\l+ FechaFinal\l|+ CalculoMagnitud()\l+ Intensidad()\l}" alt="" coords="240,175,451,311"/>
+<area shape="rect" id="node3" href="$class_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_clases_1_1_falla.html" title="{UTN.Winform.Examen1.Sismos.\lClases.Falla\n||+ Intensidad()\l}" alt="" coords="5,366,216,458"/>
+<area shape="rect" id="node4" href="$class_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_clases_1_1_tectonico.html" title="{UTN.Winform.Examen1.Sismos.\lClases.Tectonico\n||+ Intensidad()\l}" alt="" coords="240,366,451,458"/>
+<area shape="rect" id="node5" href="$class_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_clases_1_1_volcanico.html" title="{UTN.Winform.Examen1.Sismos.\lClases.Volcanico\n||+ Intensidad()\l+ MasaMaterialesLanzados()\l}" alt="" coords="475,359,685,465"/>
+</map>

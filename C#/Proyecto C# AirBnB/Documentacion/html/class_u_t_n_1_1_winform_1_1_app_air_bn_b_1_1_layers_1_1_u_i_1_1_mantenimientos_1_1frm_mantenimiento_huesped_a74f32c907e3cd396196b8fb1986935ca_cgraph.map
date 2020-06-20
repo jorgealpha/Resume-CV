@@ -1,0 +1,4 @@
+<map id="UTN.Winform.AppAirBnB.Layers.UI.Mantenimientos.frmMantenimientoHuesped.CargarDatos" name="UTN.Winform.AppAirBnB.Layers.UI.Mantenimientos.frmMantenimientoHuesped.CargarDatos">
+<area shape="rect" id="node2" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_b_l_l_huesped.html#a1deaea47bc0de2116922c56db982721b" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IBLLHuesped.GetAllHuesped" alt="" coords="291,5,533,47"/>
+<area shape="rect" id="node3" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_b_l_l_pais.html#a0f8865dadcd3761063e295ee4790ef2e" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IBLLPais.GetAllPais" alt="" coords="305,71,519,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="UTN.Winform.Examen1.Sismos.Clases.Falla" name="UTN.Winform.Examen1.Sismos.Clases.Falla">
+<area shape="rect" id="node2" href="$class_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_clases_1_1_sismo.html" title="{Sismo\n|+ AmplitudHonda\l+ FechaInicial\l+ FechaFinal\l|+ CalculoMagnitud()\l+ Intensidad()\l}" alt="" coords="41,160,180,281"/>
+<area shape="rect" id="node3" href="$interface_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_interfaces_1_1_i_ritchter.html" title="{IRitchter\n|+ AmplitudHonda\l+ FechaInicial\l+ FechaFinal\l|+ CalculoMagnitud()\l}" alt="" coords="41,5,180,112"/>
+</map>

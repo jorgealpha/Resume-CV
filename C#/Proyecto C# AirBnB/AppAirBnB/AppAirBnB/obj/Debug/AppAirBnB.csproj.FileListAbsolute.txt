@@ -1,0 +1,101 @@
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.exe.config
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.csprojResolveAssemblyReference.cache
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.frmLogin.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.frmPrincipal.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Properties.Resources.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.csproj.GenerateResource.Cache
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.exe
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.pdb
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\bin\Debug\log4net.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\bin\Debug\log4net.xml
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.exe
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.pdb
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Mantenimientos.frmMantenimientoHuesped.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Mantenimientos.frmMantenimientoHabitacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmReservacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmFacturacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.exe.config
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.exe
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.pdb
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.exe
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.pdb
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\bin\Debug\log4net.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\bin\Debug\log4net.xml
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.csprojResolveAssemblyReference.cache
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.frmLogin.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.frmPrincipal.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Mantenimientos.frmMantenimientoHabitacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Mantenimientos.frmMantenimientoHuesped.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmFacturacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmReservacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Properties.Resources.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.csproj.GenerateResource.Cache
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v2\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Seguridad.frmSeguridad.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.exe.config
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.exe
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.pdb
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.exe
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.pdb
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\bin\Debug\log4net.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\bin\Debug\log4net.xml
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.csprojResolveAssemblyReference.cache
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.frmLogin.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.frmPrincipal.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Mantenimientos.frmMantenimientoHabitacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Mantenimientos.frmMantenimientoHuesped.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmFacturacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmReservacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Seguridad.frmSeguridad.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Properties.Resources.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.csproj.GenerateResource.Cache
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\bin\Debug\QRCoder.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\bin\Debug\UnityEngine.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Filtros.frmFiltroReserva.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Filtros.frmFiltroHuesped.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Filtros.frmFiltroHabi.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v3\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.frmAcercaDe.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.exe.config
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.exe
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.pdb
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\log4net.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\QRCoder.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\UnityEngine.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\log4net.xml
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Filtros.frmFiltroHabi.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Filtros.frmFiltroHuesped.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Filtros.frmFiltroReserva.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.frmAcercaDe.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.frmLogin.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.frmPrincipal.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Mantenimientos.frmMantenimientoHabitacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Mantenimientos.frmMantenimientoHuesped.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmFacturacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmReservacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Reportes.frmFacturaImpresion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Reportes.frmReporteHabitaciones.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Reportes.frmReporteRecaudacion.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Layers.UI.Seguridad.frmSeguridad.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\UTN.Winform.AppAirBnB.Properties.Resources.resources
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.csproj.GenerateResource.Cache
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\RdlCompile.cache
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\RdlCompile.compiled
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.exe
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.pdb
+C:\Users\JorgeMario\Desktop\Proyecto Programado Cuatrimestre I 2018 v4\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.csprojResolveAssemblyReference.cache
+C:\Users\JorgeMario\Desktop\Ing.Software\Progra 3\Semana 14\Proyecto Programado Cuatrimestre I 2018 v5\AppAirBnB\AppAirBnB\bin\Debug\AppAirBnB.exe.config
+C:\Users\JorgeMario\Desktop\Ing.Software\Progra 3\Semana 14\Proyecto Programado Cuatrimestre I 2018 v5\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.exe
+C:\Users\JorgeMario\Desktop\Ing.Software\Progra 3\Semana 14\Proyecto Programado Cuatrimestre I 2018 v5\AppAirBnB\AppAirBnB\obj\Debug\AppAirBnB.pdb

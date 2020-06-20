@@ -1,0 +1,5 @@
+<map id="UTN.Winform.Examen1.Sismos.Clases.Volcanico" name="UTN.Winform.Examen1.Sismos.Clases.Volcanico">
+<area shape="rect" id="node2" href="$class_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_clases_1_1_sismo.html" title="{Sismo\n|+ AmplitudHonda\l+ FechaInicial\l+ FechaFinal\l|+ CalculoMagnitud()\l+ Intensidad()\l}" alt="" coords="5,160,144,281"/>
+<area shape="rect" id="node3" href="$interface_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_interfaces_1_1_i_ritchter.html" title="{IRitchter\n|+ AmplitudHonda\l+ FechaInicial\l+ FechaFinal\l|+ CalculoMagnitud()\l}" alt="" coords="5,5,144,112"/>
+<area shape="rect" id="node4" href="$interface_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_interfaces_1_1_i_volcanico.html" title="{IVolcanico\n||+ MasaMaterialesLanzados()\l}" alt="" coords="169,182,359,259"/>
+</map>

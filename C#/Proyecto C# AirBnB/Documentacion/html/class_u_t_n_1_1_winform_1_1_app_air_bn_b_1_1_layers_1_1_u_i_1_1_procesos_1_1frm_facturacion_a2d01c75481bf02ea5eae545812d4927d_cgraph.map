@@ -1,0 +1,4 @@
+<map id="UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmFacturacion.EstadoHabitaciones" name="UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmFacturacion.EstadoHabitaciones">
+<area shape="rect" id="node2" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_b_l_l_habitacion.html#a04532f0d4f471b1aec2e6460ee787afb" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IBLLHabitacion.GetHabitacionById" alt="" coords="281,5,556,47"/>
+<area shape="rect" id="node3" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_b_l_l_habitacion.html#acd89573ae5247ff7e0c924b11608be87" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IBLLHabitacion.SaveHabitacion" alt="" coords="291,71,546,112"/>
+</map>

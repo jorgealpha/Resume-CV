@@ -1,0 +1,4 @@
+<map id="UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmReservacion.toolStripBtnReservar_Click" name="UTN.Winform.AppAirBnB.Layers.UI.Procesos.frmReservacion.toolStripBtnReservar_Click">
+<area shape="rect" id="node2" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_b_l_l_habitacion.html#a04532f0d4f471b1aec2e6460ee787afb" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IBLLHabitacion.GetHabitacionById" alt="" coords="291,5,565,47"/>
+<area shape="rect" id="node3" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_b_l_l_huesped.html#a83d10b2a5191d3511f0df822189db135" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IBLLHuesped.GetHuespedById" alt="" coords="301,71,555,112"/>
+</map>

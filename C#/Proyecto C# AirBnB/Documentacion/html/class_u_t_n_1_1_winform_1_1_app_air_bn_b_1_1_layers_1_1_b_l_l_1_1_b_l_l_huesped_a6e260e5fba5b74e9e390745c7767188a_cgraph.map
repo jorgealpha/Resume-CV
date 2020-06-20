@@ -1,0 +1,5 @@
+<map id="UTN.Winform.AppAirBnB.Layers.BLL.BLLHuesped.SaveHuesped" name="UTN.Winform.AppAirBnB.Layers.BLL.BLLHuesped.SaveHuesped">
+<area shape="rect" id="node2" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_d_a_l_huesped.html#aa2ca39a8ffef80a006ca2e8fcfb3a035" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IDALHuesped.GetHuespedById" alt="" coords="268,5,524,47"/>
+<area shape="rect" id="node3" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_d_a_l_huesped.html#a0c5959be1dcbbd9f0f50db7341ffb675" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IDALHuesped.SaveHuesped" alt="" coords="277,71,515,112"/>
+<area shape="rect" id="node4" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_d_a_l_huesped.html#ac635d1a0fa5bc60b058a439ac8893293" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IDALHuesped.UpdateHuesped" alt="" coords="271,136,521,177"/>
+</map>

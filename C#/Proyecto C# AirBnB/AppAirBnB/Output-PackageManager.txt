@@ -1,0 +1,5 @@
+﻿Attempting to gather dependency information for package 'WPFTabTip.1.2.2' with respect to project 'AppAirBnB', targeting '.NETFramework,Version=v4.6'
+Attempting to resolve dependencies for package 'WPFTabTip.1.2.2' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'WPFTabTip.1.2.2'
+Resolved actions to install package 'WPFTabTip.1.2.2'
+========== Finished ==========

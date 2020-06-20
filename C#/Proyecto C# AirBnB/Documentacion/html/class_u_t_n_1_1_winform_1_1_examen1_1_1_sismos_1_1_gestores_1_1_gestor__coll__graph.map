@@ -1,0 +1,5 @@
+<map id="UTN.Winform.Examen1.Sismos.Gestores.Gestor" name="UTN.Winform.Examen1.Sismos.Gestores.Gestor">
+<area shape="rect" id="node2" href="$interface_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_interfaces_1_1_i_gestor.html" title="{IGestor\n||+ AgregarSismo()\l+ AsignarInstitucion()\l+ ObtenerCalculos()\l+ ObtenerXML()\l+ TotalMagnitudes()\l}" alt="" coords="5,13,151,149"/>
+<area shape="rect" id="node3" href="$interface_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_interfaces_1_1_i_institucion.html" title="{UTN.Winform.Examen1.Sismos.\lInterfaces.IInstitucion\n|+ Nombre\l|}" alt="" coords="175,35,386,127"/>
+<area shape="rect" id="node4" href="$interface_u_t_n_1_1_winform_1_1_examen1_1_1_sismos_1_1_interfaces_1_1_i_evento.html" title="{UTN.Winform.Examen1.Sismos.\lInterfaces.IEvento\n||+ AgregarSismo()\l+ AsignarInstitucion()\l+ CalculoMagnitud()\l+ ObtenerCalculos()\l+ ObtenerXML()\l}" alt="" coords="410,5,621,156"/>
+</map>

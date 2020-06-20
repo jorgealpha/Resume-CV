@@ -1,0 +1,4 @@
+<map id="UTN.Winform.AppAirBnB.Layers.UI.frmPrincipal.frmPrincipal_Load" name="UTN.Winform.AppAirBnB.Layers.UI.frmPrincipal.frmPrincipal_Load">
+<area shape="rect" id="node2" href="$class_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_util_1_1_utilitarios.html#a2ed6eabe9a074053e17b4efa16eb42c4" title="UTN.Winform.AppAirBnB.Util.\lUtilitarios.CultureInfo" alt="" coords="293,5,487,47"/>
+<area shape="rect" id="node3" href="$interface_u_t_n_1_1_winform_1_1_app_air_bn_b_1_1_layers_1_1_interface_1_1_i_b_l_l_sys_user_rol_d_t_o.html#abb041e5a32f6fe8cddc8a3af3cf945c1" title="UTN.Winform.AppAirBnB.Layers.\lInterface.IBLLSysUserRolDTO.GetSys\lUserByFilter" alt="" coords="268,71,512,127"/>
+</map>
